@@ -1,2 +1,2 @@
 # Cheesylicious
-Deutsche Einstellungs Übersetzungen
+Übersetzungen der Einstellungen ins Deutsche
